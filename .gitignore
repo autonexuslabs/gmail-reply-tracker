@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.log
+.sync-state.json
+replies.jsonl
+leads.txt

@@ -1,0 +1,243 @@
+[
+  {
+    "id": "m1",
+    "threadId": "t1",
+    "internalDate": "1791295920000",
+    "snippet": "Yes, send the demo over. We lose a lot of calls on Saturdays.\n\nOn Mon, Oct 5, 20",
+    "payload": {
+      "mimeType": "multipart/alternative",
+      "headers": [
+        {
+          "name": "From",
+          "value": "Maria Lopez <maria@northwind-heating.example>"
+        },
+        {
+          "name": "Subject",
+          "value": "Re: Missed calls at Northwind Heating"
+        },
+        {
+          "name": "Date",
+          "value": "Tue, 06 Oct 2026 14:12:00 GMT"
+        }
+      ],
+      "parts": [
+        {
+          "mimeType": "text/plain",
+          "body": {
+            "data": "WWVzLCBzZW5kIHRoZSBkZW1vIG92ZXIuIFdlIGxvc2UgYSBsb3Qgb2YgY2FsbHMgb24gU2F0dXJkYXlzLgoKT24gTW9uLCBPY3QgNSwgMjAyNiBhdCA5OjAwIEFNIEFsZXggPGFsZXhAZGVtb2NvLmV4YW1wbGU-IHdyb3RlOgo-IEhpIE1hcmlhLAo-IFdoZW4gTm9ydGh3aW5kIEhlYXRpbmcgaXMgb24gYSBqb2IuLi4"
+          }
+        },
+        {
+          "mimeType": "text/html",
+          "body": {
+            "data": "PGRpdj5ZZXMsIHNlbmQgdGhlIGRlbW8gb3Zlci4gV2UgbG9zZSBhIGxvdCBvZiBjYWxscyBvbiBTYXR1cmRheXMuPGJyPjxicj5PbiBNb24sIE9jdCA1LCAyMDI2IGF0IDk6MDAgQU0gQWxleCA8YWxleEBkZW1vY28uZXhhbXBsZT4gd3JvdGU6PGJyPj4gSGkgTWFyaWEsPGJyPj4gV2hlbiBOb3J0aHdpbmQgSGVhdGluZyBpcyBvbiBhIGpvYi4uLjwvZGl2Pg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "m2",
+    "threadId": "t2",
+    "internalDate": "1791297000000",
+    "snippet": "Top stories this week...",
+    "payload": {
+      "mimeType": "multipart/alternative",
+      "headers": [
+        {
+          "name": "From",
+          "value": "SaaS Weekly <news@somesaas.example>"
+        },
+        {
+          "name": "Subject",
+          "value": "Your weekly digest"
+        },
+        {
+          "name": "Date",
+          "value": "Tue, 06 Oct 2026 14:30:00 GMT"
+        }
+      ],
+      "parts": [
+        {
+          "mimeType": "text/plain",
+          "body": {
+            "data": "VG9wIHN0b3JpZXMgdGhpcyB3ZWVrLi4u"
+          }
+        },
+        {
+          "mimeType": "text/html",
+          "body": {
+            "data": "PGRpdj5Ub3Agc3RvcmllcyB0aGlzIHdlZWsuLi48L2Rpdj4"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "m3",
+    "threadId": "t3",
+    "internalDate": "1791298920000",
+    "snippet": "I am out of the office until Monday.",
+    "payload": {
+      "mimeType": "text/plain",
+      "headers": [
+        {
+          "name": "From",
+          "value": "Priya <office@oakline.example>"
+        },
+        {
+          "name": "Subject",
+          "value": "Automatic reply: Missed calls at Oakline Heating"
+        },
+        {
+          "name": "Date",
+          "value": "Tue, 06 Oct 2026 15:02:00 GMT"
+        },
+        {
+          "name": "Auto-Submitted",
+          "value": "auto-replied"
+        }
+      ],
+      "body": {
+        "data": "SSBhbSBvdXQgb2YgdGhlIG9mZmljZSB1bnRpbCBNb25kYXku"
+      }
+    }
+  },
+  {
+    "id": "m4",
+    "threadId": "t4",
+    "internalDate": "1791301200000",
+    "snippet": "Address not found\n\nYour message wasn't delivered to jo@ironwoodair.example becau",
+    "payload": {
+      "mimeType": "text/plain",
+      "headers": [
+        {
+          "name": "From",
+          "value": "Mail Delivery Subsystem <mailer-daemon@googlemail.example>"
+        },
+        {
+          "name": "Subject",
+          "value": "Delivery Status Notification (Failure)"
+        },
+        {
+          "name": "Date",
+          "value": "Tue, 06 Oct 2026 15:40:00 GMT"
+        }
+      ],
+      "body": {
+        "data": "QWRkcmVzcyBub3QgZm91bmQKCllvdXIgbWVzc2FnZSB3YXNuJ3QgZGVsaXZlcmVkIHRvIGpvQGlyb253b29kYWlyLmV4YW1wbGUgYmVjYXVzZSB0aGUgYWRkcmVzcyBjb3VsZG4ndCBiZSBmb3VuZC4"
+      }
+    }
+  },
+  {
+    "id": "m5",
+    "threadId": "t5",
+    "internalDate": "1791302700000",
+    "snippet": "Who is this? How did you get my email?\n\n-----Original Message-----\nFrom: Alex",
+    "payload": {
+      "mimeType": "multipart/alternative",
+      "headers": [
+        {
+          "name": "From",
+          "value": "dev@cedarvalleyhvac.example"
+        },
+        {
+          "name": "Subject",
+          "value": "Re: Missed calls at Cedar Valley HVAC"
+        },
+        {
+          "name": "Date",
+          "value": "Tue, 06 Oct 2026 16:05:00 GMT"
+        }
+      ],
+      "parts": [
+        {
+          "mimeType": "text/plain",
+          "body": {
+            "data": "V2hvIGlzIHRoaXM_IEhvdyBkaWQgeW91IGdldCBteSBlbWFpbD8KCi0tLS0tT3JpZ2luYWwgTWVzc2FnZS0tLS0tCkZyb206IEFsZXg"
+          }
+        },
+        {
+          "mimeType": "text/html",
+          "body": {
+            "data": "PGRpdj5XaG8gaXMgdGhpcz8gSG93IGRpZCB5b3UgZ2V0IG15IGVtYWlsPzxicj48YnI-LS0tLS1PcmlnaW5hbCBNZXNzYWdlLS0tLS08YnI-RnJvbTogQWxleDwvZGl2Pg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "m6",
+    "threadId": "t1",
+    "internalDate": "1791379200000",
+    "snippet": "Thursday at 2 works. Call the office line.\n\nOn Tue, Oct 6, 2026 Alex wrote:\n> Gr",
+    "payload": {
+      "mimeType": "multipart/alternative",
+      "headers": [
+        {
+          "name": "From",
+          "value": "Maria Lopez <maria@northwind-heating.example>"
+        },
+        {
+          "name": "Subject",
+          "value": "Re: Missed calls at Northwind Heating"
+        },
+        {
+          "name": "Date",
+          "value": "Wed, 07 Oct 2026 13:20:00 GMT"
+        }
+      ],
+      "parts": [
+        {
+          "mimeType": "text/plain",
+          "body": {
+            "data": "VGh1cnNkYXkgYXQgMiB3b3Jrcy4gQ2FsbCB0aGUgb2ZmaWNlIGxpbmUuCgpPbiBUdWUsIE9jdCA2LCAyMDI2IEFsZXggd3JvdGU6Cj4gR3JlYXQsIHdoZW4gaXMgZ29vZD8"
+          }
+        },
+        {
+          "mimeType": "text/html",
+          "body": {
+            "data": "PGRpdj5UaHVyc2RheSBhdCAyIHdvcmtzLiBDYWxsIHRoZSBvZmZpY2UgbGluZS48YnI-PGJyPk9uIFR1ZSwgT2N0IDYsIDIwMjYgQWxleCB3cm90ZTo8YnI-PiBHcmVhdCwgd2hlbiBpcyBnb29kPzwvZGl2Pg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "m7",
+    "threadId": "t7",
+    "internalDate": "1791387900000",
+    "snippet": "Not right now, maybe in the spring.",
+    "payload": {
+      "mimeType": "multipart/alternative",
+      "headers": [
+        {
+          "name": "From",
+          "value": "Luis <info@pacificcomfort.example>"
+        },
+        {
+          "name": "Subject",
+          "value": "Re: Missed calls at Pacific Comfort"
+        },
+        {
+          "name": "Date",
+          "value": "Wed, 07 Oct 2026 15:45:00 GMT"
+        }
+      ],
+      "parts": [
+        {
+          "mimeType": "text/plain",
+          "body": {
+            "data": "Tm90IHJpZ2h0IG5vdywgbWF5YmUgaW4gdGhlIHNwcmluZy4"
+          }
+        },
+        {
+          "mimeType": "text/html",
+          "body": {
+            "data": "PGRpdj5Ob3QgcmlnaHQgbm93LCBtYXliZSBpbiB0aGUgc3ByaW5nLjwvZGl2Pg"
+          }
+        }
+      ]
+    }
+  }
+]

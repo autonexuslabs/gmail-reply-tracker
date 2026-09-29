@@ -1,0 +1,14 @@
+{
+  "name": "gmail-reply-tracker",
+  "version": "1.0.0",
+  "description": "Watch a Gmail inbox for replies from tracked leads: incremental sync, star the thread, Telegram alert, JSON events for your CRM or sequencer.",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test",
+    "demo": "node examples/demo.js",
+    "auth": "node --env-file=.env bin/auth.js",
+    "sync": "node --env-file=.env bin/sync.js --leads leads.txt --out replies.jsonl"
+  }
+}
